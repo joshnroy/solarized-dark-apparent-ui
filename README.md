@@ -1,4 +1,4 @@
-# Solarized Dark UI theme
+# Solarized Dark Apparent UI theme
 
 Based on [Spacegray Dark UI](https://github.com/cannikin/spacegray-dark-ui) Atom theme.
 
