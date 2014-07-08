@@ -6,4 +6,4 @@ Based on [Spacegray Dark UI](https://github.com/cannikin/spacegray-dark-ui) and 
 
 ___
 
-To find the brighter and more apparent matching theme, go to [Solarized Dark Apparent Syntax](https://github.com/joshnroy/solarized-dark-apparent-syntax)
+To find the brighter and more apparent matching syntax theme, go to [Solarized Dark Apparent Syntax](https://github.com/joshnroy/solarized-dark-apparent-syntax)
