@@ -2,4 +2,4 @@
 
 Based on [Spacegray Dark UI](https://github.com/cannikin/spacegray-dark-ui) and [Solarized Dark UI](https://github.com/Rnhmjoj/solarized-dark-ui) Atom themes.
 
-![screenshot](https://raw.github.com/Rnhmjoj/solarized-dark-ui/master/screenshot.png)
+![screenshot](https://raw.github.com/joshnroy/solarized-dark-apparent-ui/master/screenshot.png)
