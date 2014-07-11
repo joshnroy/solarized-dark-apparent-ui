@@ -4,7 +4,7 @@
   "version": "0.5.0",
   "description": "Solarized Dark UI theme for Atom with slightly brighter and more apparent colors",
   "license": "MIT",
-  "repository": "https://github.com/joshnroy/solarized-dark-apparent-ui",
+  "repository": "https://github.com/joshnroy/solarized-dark-apparent-ui.git",
   "engines": {
     "atom": ">0.50.0"
   }
